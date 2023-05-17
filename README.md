@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## My Stats
+<!-- ## My Stats
 <a href="https://github.com/zipsm15">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zipsm15&show_icons=true&theme=onedark" />
-</a>
+</a> -->
 
 <!-- <a href="https://github.com/zipsm15">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zipsm15&show_icons=true&theme=onedark" />
