@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!-- ## My Stats
-<a href="https://github.com/zipsm15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zipsm15&show_icons=true&theme=onedark" />
+<a href="https://github.com/seanmorley15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seanmorley15 &show_icons=true&theme=onedark" />
 </a> -->
 
-<!-- <a href="https://github.com/zipsm15">
+<!-- <a href="https://github.com/seanmorley15">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zipsm15&show_icons=true&theme=onedark" />
 </a> -->
 
 <!--
-**zipsm15/zipsm15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seanmorley15/seanmorley15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
