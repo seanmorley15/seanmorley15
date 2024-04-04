@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-🚀 Exciting release coming this summer!
+🚀 Exciting new project releasing this summer!
