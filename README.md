@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-🚀 Exciting new project releasing this summer!
+**Check out AdventureLog!** - A self-hostable travel tracker!
