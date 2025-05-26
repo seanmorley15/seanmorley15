@@ -11,6 +11,7 @@
 ---
 
 I'm a Computer Science & Engineering student at the University of Connecticut, an indie developer, and the founder of [**AdventureLog**](https://github.com/seanmorley15/AdventureLog) — a self-hosted travel tracker and planner designed for the modern traveler. AdventureLog allows users to track their travels, visualize trips on a map, and plan future journeys, all-in-one.
+
 🧠 I'm currently learning:
 
 - **TypeScript**, to build robust web applications.
